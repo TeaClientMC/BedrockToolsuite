@@ -1,0 +1,9 @@
+[workspace]
+resolver = "3"
+members = [
+    "./crates/injector", "./crates/mappings", "crates/error",
+]
+
+[workspace.package]
+edition = "2024"
+version = "0.0.5"

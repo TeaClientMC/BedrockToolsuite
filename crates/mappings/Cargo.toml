@@ -1,0 +1,7 @@
+[package]
+name = "mappings"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+ms-pdb = "0.1.9"

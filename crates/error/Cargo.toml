@@ -1,0 +1,8 @@
+[package]
+name = "error"
+edition.workspace = true
+version.workspace = true
+
+[dependencies]
+displaydoc = "0.2.5"
+thiserror = "2.0.12"
